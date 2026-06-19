@@ -8,9 +8,9 @@ Illegal goods trading/transport guild
 Hiring mercenaries/contractors
 
 ## Known Members:
-- Guy who gave us job in [[Shal]]
-- Woman who paid us for job in Keya
-- Other guy in Keya office
+- Olon (Guy who gave us job in [[Shal]])
+- Bella (Woman who paid us for job in Keya)
+- Min (Other guy in Keya office)
 
 ## Locations:
 - Guild Hall in Keya
@@ -20,4 +20,4 @@ Hiring mercenaries/contractors
 Unknown mostly, since they operate an illegal trading business in Keya it's possible that they have some association with the [[Jorgenson Family]] They also are likely to be on the wrong side of the kings guard
 
 #### To Us:
-Somewhat strained, when [[1. Returning the Goop to the Guild|we last spoke]] they kicked us out of the guild for asking too many questions about their clients, but we did complete 2 jobs for them reasonably quick, so it's possible they would still be willing to work with us
+Somewhat strained, when [[1. Returning the Goop to the Guild|we last spoke]] Bella kicked us out of the guild for asking too many questions about their clients, but we did complete 2 jobs for them reasonably quick, so it's possible they would still be willing to work with us

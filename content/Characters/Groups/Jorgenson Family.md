@@ -1,4 +1,4 @@
-The Jorgenson Family are a family of dwarves that operates a wildly successful arms and armaments business. They are well known for their quality. They are also well known for being willing to sell to whoever has the money, including criminals. Publicly this puts them at odds with the [[Kings Guard]], however secretly the Kings Guard still are willing to buy from the Jorgenson's. [[Thad Jorgenson|Thad]] is one of the youngest sons of the family, but he separated from them some time ago, as he was uncomfortable with who they were selling to.
+The Jorgenson Family are a family of dwarves that operates a wildly successful arms and armaments business. They are well known for their quality. They are also well known for being willing to sell to whoever has the money, including criminals. Publicly this puts them at odds with the [[Kings Guard]], however secretly the Kings Guard still are willing to buy from the Jorgenson's. [[Thad Jorgenson|Thad]] is one of the youngest sons of the family, but he separated from them some time ago after being chased out of town due to his gambling problems
 
 ---
 ## Purpose:
@@ -9,6 +9,7 @@ Blacksmithing and trading
 ## Known Members:
 - [[Brad Jorgenson]]
 - Dad Jorgenson (Presumably)
+- Mom(?) Jorgenson (Presumably)
 - [[Thad Jorgenson]] (Former, estranged)
 
 ## Locations:
